@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:18,24 TV
+#EXTINF:0,24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
 #EXTINF:18,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:iptvcat.com
@@ -7,8 +7,6 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:iptvc
 http://sofadad.co.uk:80/emma123/123emma/78585?checkedby:iptvcat.com
 #EXTINF:0,360 TV FHD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1759?checkedby:iptvcat.com
-#EXTINF:0,360 TV HD
-http://oostv.site:8080/iptv/iptv/15?checkedby:iptvcat.com
 #EXTINF:0,360 TV HD
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25688?checkedby:iptvcat.com
 #EXTINF:0,360tv HD
