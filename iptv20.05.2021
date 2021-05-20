@@ -51,9 +51,7 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25695?checkedby:iptvcat.com
 http://romax.live:2086/nomore:live/E4SKdGsEyc/1204?checkedby:iptvcat.com
 #EXTINF:0,A SPOR UHD
 http://romax.live:2086/nomore:live/E4SKdGsEyc/36178?checkedby:iptvcat.com
-#EXTINF:0,A2 [HD]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/234f6a09c0e9239.m3u8?checkedby:iptvcat.com
-#EXTINF:0,A2 [HD]
+#EXTINF:74,A2 [HD]
 http://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8?checkedby:iptvcat.com
 #EXTINF:0,A2 FHD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1763?checkedby:iptvcat.com
@@ -81,7 +79,7 @@ http://kuzeykibris.tv/m3u8/tv_ada.m3u8?checkedby:iptvcat.com
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/29561?checkedby:iptvcat.com
 #EXTINF:0,Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AFYON TÜRK TV
+#EXTINF:28,AFYON TÜRK TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AFYON TÜRK TV
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/42380?checkedby:iptvcat.com
@@ -93,7 +91,7 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/1818?checkedby:iptvcat.com
 http://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AKIT TV HD
+#EXTINF:7200,AKIT TV HD
 http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
@@ -259,8 +257,6 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/1332?checkedby:iptvcat.com
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/60?checkedby:iptvcat.com
 #EXTINF:0,beIN SERIES DRAMA HD
 http://romax.live:2086/nomore:live/E4SKdGsEyc/44510?checkedby:iptvcat.com
-#EXTINF:0,beIN Series Drama HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213712?checkedby:iptvcat.com
 #EXTINF:0,beIN SERIES SCI-FI HD
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/61?checkedby:iptvcat.com
 #EXTINF:0,beIN SERIES SCI-FI HD
@@ -409,12 +405,6 @@ https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8?check
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,BEYAZ HD+
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87?checkedby:iptvcat.com
-#EXTINF:0,Beyaz Perde (Komedi) Tv
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts?checkedby:iptvcat.com
-#EXTINF:0,Beyaz Perde (Yerli Komedi) Tv
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts?checkedby:iptvcat.com
-#EXTINF:0,Beyaz Perde (Yerli Sinama) Tv
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts?checkedby:iptvcat.com
 #EXTINF:100,BEYAZ TV [HD]
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,BEYAZ TV FHD
@@ -467,8 +457,6 @@ https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8?checkedby:iptvc
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/42360?checkedby:iptvcat.com
 #EXTINF:0,BOOMERANG HD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137726?checkedby:iptvcat.com
-#EXTINF:0,BOOMERANG HD
-http://sofadad.co.uk:80/emma123/123emma/78804?checkedby:iptvcat.com
 #EXTINF:0,BOOMERANG HD
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/176?checkedby:iptvcat.com
 #EXTINF:0,BOSS KEMAL SUNAL
@@ -528,8 +516,6 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8?checkedby:iptvcat.c
 #EXTINF:0,CBEEBiES HD
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/173?checkedby:iptvcat.com
 #EXTINF:0,CEM TV
-http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/192?checkedby:iptvcat.com
-#EXTINF:0,CEM TV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1814?checkedby:iptvcat.com
 #EXTINF:0,CHASSE ET PECHE HD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137828?checkedby:iptvcat.com
@@ -581,7 +567,7 @@ http://mate.ovh:8000/Tayfungjkkdl/qATwje6Vdt89ekke/17603?checkedby:iptvcat.com
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25665?checkedby:iptvcat.com
 #EXTINF:0,DISNEY CHANNEL
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1836?checkedby:iptvcat.com
-#EXTINF:0,DISNEY CHANNEL [HD]
+#EXTINF:67,DISNEY CHANNEL [HD]
 http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8?checkedby:iptvcat.com
 #EXTINF:0,DISNEY CHANNEL HD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137731?checkedby:iptvcat.com
@@ -623,18 +609,12 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/1827?checkedby:iptvcat.com
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/182?checkedby:iptvcat.com
 #EXTINF:0,Dream TV
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25663?checkedby:iptvcat.com
-#EXTINF:0,DREAM TÜRK HD
-https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_w1913354693_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0,DRT TV
+#EXTINF:30,DRT TV
 https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
 #EXTINF:0,DİM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,DİYANET TV HD
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EBA TV LİSE (720p)
-https://tv-e-okul02.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EBA TV İLKOKUL (720p)
-https://tv-e-okul00.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Atürk TV - Ege Atürk TV
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,EGE TV HD
@@ -699,16 +679,6 @@ http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8?checkedby:iptvcat.com
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ETV MANİSA TV
 https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EURO D [HD]
-http://iptvmasterlink.dyndns.org:5566/Entry/eurod_yeni.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EURO STAR (720p)
-http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EURO STAR - EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,FB TV
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25661?checkedby:iptvcat.com
 #EXTINF:0,FB TV [HD]
@@ -721,8 +691,6 @@ http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137918?checkedby:iptvcat.com
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1784?checkedby:iptvcat.com
 #EXTINF:0,FBTV HD
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/40?checkedby:iptvcat.com
-#EXTINF:0,Ferdi Tayfur Tv
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts?checkedby:iptvcat.com
 #EXTINF:0,FIGHTBOX HD
 http://romax.live:2086/nomore:live/E4SKdGsEyc/3947?checkedby:iptvcat.com
 #EXTINF:30,Finans Turk TV
@@ -765,8 +733,6 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/1245?checkedby:iptvcat.com
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/91?checkedby:iptvcat.com
 #EXTINF:0,FX HD
 http://romax.live:2086/nomore:live/E4SKdGsEyc/1338?checkedby:iptvcat.com
-#EXTINF:0,FX HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213686?checkedby:iptvcat.com
 #EXTINF:0,Fx HDᶫᵒ
 http://romax.live:2086/nomore:live/E4SKdGsEyc/57722?checkedby:iptvcat.com
 #EXTINF:0,GalatasarayTV HD
@@ -839,7 +805,7 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8?chec
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,HABER GLOBAL
 http://sofadad.co.uk:80/emma123/123emma/78593?checkedby:iptvcat.com
-#EXTINF:0,HABER GLOBAL [HD]
+#EXTINF:100,HABER GLOBAL [HD]
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,HABER GLOBAL FHD
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/155?checkedby:iptvcat.com
@@ -909,14 +875,6 @@ https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8?checkedby:iptvcat.com
 http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/186993?checkedby:iptvcat.com
 #EXTINF:0,HyperCinema FHD
 http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/549?checkedby:iptvcat.com
-#EXTINF:0,IBB TV
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1?checkedby:iptvcat.com
-#EXTINF:0,IBB TV
-https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w296059271.m3u8?checkedby:iptvcat.com
-#EXTINF:0,IBB TV
-http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,IBB TV FHD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/166861?checkedby:iptvcat.com
 #EXTINF:0,Icel TV
 https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
 #EXTINF:0,ICEL TV
@@ -943,7 +901,7 @@ http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/20584?checkedby:iptvcat.com
 http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/645?checkedby:iptvcat.com
 #EXTINF:0,KAHRAMANMARAŞ Aksu TV
 http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/42414?checkedby:iptvcat.com
-#EXTINF:0,KANAL 12
+#EXTINF:24,KANAL 12
 https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal 12
 http://yayin.netradyom.com:1935/live/kanal12/chunklist.m3u8?checkedby:iptvcat.com
@@ -979,7 +937,7 @@ http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25648?checkedby:iptvcat.com
 https://waw2.artiyerelmedya.net/kanal3/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal 3 Isparta
 http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/276509?checkedby:iptvcat.com
-#EXTINF:0,KANAL 32
+#EXTINF:20,KANAL 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,KANAL 33 alt.
 http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8?checkedby:iptvcat.com
@@ -1095,7 +1053,7 @@ http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/32625?checkedby:iptvcat.com
 http://romax.live:2086/nomore:live/E4SKdGsEyc/29865?checkedby:iptvcat.com
 #EXTINF:0,Kanal V HD
 http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/657?checkedby:iptvcat.com
-#EXTINF:0,KANAL V VIP Antalya
+#EXTINF:30,KANAL V VIP Antalya
 http://yerelmedya.tv:1935/kanalv/bant1/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
@@ -1243,16 +1201,12 @@ http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist.m3u8?checkedby:iptvcat.c
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8?checkedby:iptvcat.com
 #EXTINF:0,MAVİ KARADENİZ
 https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Max 007 FHD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213673?checkedby:iptvcat.com
 #EXTINF:0,MAX AKSIYON 1
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137743?checkedby:iptvcat.com
 #EXTINF:0,MAX GOLD TR
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137737?checkedby:iptvcat.com
 #EXTINF:0,MAX PREMIER
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137741?checkedby:iptvcat.com
-#EXTINF:0,Max Premier FHD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213668?checkedby:iptvcat.com
 #EXTINF:0,MAX VIZYON 3 HD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137739?checkedby:iptvcat.com
 #EXTINF:0,MAŞA ile KOCA AYI
@@ -1323,10 +1277,6 @@ http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137804?checkedby:iptvcat.com
 http://romax.live:2086/nomore:live/E4SKdGsEyc/1348?checkedby:iptvcat.com
 #EXTINF:0,MovieSmart Classic HDᶫᵒ
 http://romax.live:2086/nomore:live/E4SKdGsEyc/57727?checkedby:iptvcat.com
-#EXTINF:0,MOVIESMART PLATIN 2 HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213738?checkedby:iptvcat.com
-#EXTINF:0,MOVIESMART PREMIUM 1 HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213737?checkedby:iptvcat.com
 #EXTINF:0,MOVIESMART PREMIUM 2 HD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137810?checkedby:iptvcat.com
 #EXTINF:0,MOVIESMART PREMIUM FHD
@@ -1749,8 +1699,6 @@ http://hd.magiptvserver.com:8080/akpinarm/Se2t5LIMO3/136?checkedby:iptvcat.com
 http://romax.live:2086/nomore:live/E4SKdGsEyc/25769?checkedby:iptvcat.com
 #EXTINF:0,TELE 1 SD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137844?checkedby:iptvcat.com
-#EXTINF:0,TELE 5 HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213676?checkedby:iptvcat.com
 #EXTINF:0,TEVE 2 FHD
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/1764?checkedby:iptvcat.com
 #EXTINF:0,TEVE 2 FHD
@@ -1795,8 +1743,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31931?checkedby:iptvcat.com
 #EXTINF:0,Tivibu  Spor 2
 http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31930?checkedby:iptvcat.com
-#EXTINF:0,TIVIBU ADRENALiN 2 HD VIP TR
-http://sofadad.co.uk:80/emma123/123emma/213675?checkedby:iptvcat.com
 #EXTINF:0,TIVIBU SPOR 1 FHD
 http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/137931?checkedby:iptvcat.com
 #EXTINF:0,TIVIBU SPOR 1 HD
