@@ -1,25 +1,45 @@
 #EXTM3U
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/37057?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A2
+#EXTINF:0,A2
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEYAZ TV
+#EXTINF:0,ATV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/37057?checkedby:iptvcat.com
+#EXTINF:0,BEYAZ TV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37064?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FOX TV
+#EXTINF:0,FOX TV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37061?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL 7
+#EXTINF:0,KANAL 7
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37066?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",KANAL D
+#EXTINF:0,KANAL D
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37060?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SHOW TV
+#EXTINF:0,SHOW TV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37059?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV
+#EXTINF:0,Sky Sport Bundesliga 01
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2431?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 02
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4493?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 03
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2135?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 04
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/3513?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 05
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2136?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 06
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17029?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 07
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2433?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 08
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2434?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 09
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10051?checkedby:iptvcat.com
+#EXTINF:0,Sky Sport Bundesliga 10
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2432?checkedby:iptvcat.com
+#EXTINF:0,STAR TV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1
+#EXTINF:0,TRT 1
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 2
+#EXTINF:0,TRT 2
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV 8.5
+#EXTINF:0,TV 8.5
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8
+#EXTINF:0,TV8
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/37062?checkedby:iptvcat.com
